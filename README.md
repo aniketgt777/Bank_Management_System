@@ -28,18 +28,6 @@ This is a console-based Bank Management System developed using Python. The proje
 
 ---
 
-## 📂 Project Structure
-
-```
-Bank-Management-System/
-│
-├── bank.py
-├── accounts.json
-├── README.md
-```
-
----
-
 ## 🔧 Concepts Used
 
 - Classes and Objects
